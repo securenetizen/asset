@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Inventory</title>
+  </head>
+  <body>
+    <h1>Inventory</h1>
+    <ul>
+      <% assets.forEach(function(a){ %>
+        <li><%= a.name %> - <%= a.quantity %></li>
+      <% }) %>
+    </ul>
+    <% if (user && user.role === 'admin') { %>
+      <h2>Add Asset</h2>
+      <form method="post" action="/inventory/add">
+        <input name="name" placeholder="Name" />
+        <input type="number" name="quantity" value="1" min="1" />
+        <button type="submit">Add</button>
+      </form>
+    <% } %>
+    <a href="/dashboard">Back</a>
+  </body>
+</html>
+
