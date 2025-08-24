@@ -1,0 +1,9 @@
+Here are the resources you'll be working on:
+
+Tor Browser	https://hosted.weblate.org/projects/tor/tor-browser/-/bn/#translation
+torproject.org	https://hosted.weblate.org/projects/tor/tpo-web/bn/#translation
+Tor VPN	https://hosted.weblate.org/projects/tor/tor-vpn/bn/#translation
+snowflake.torproject.org	https://hosted.weblate.org/projects/tor/snowflake-web/bn/#translation
+snowflake addon	https://hosted.weblate.org/projects/tor/snowflake-badge/bn/#translation
+
+Please only work on the Untranslated Strings.
