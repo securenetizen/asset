@@ -7,3 +7,5 @@ snowflake.torproject.org	https://hosted.weblate.org/projects/tor/snowflake-web/b
 snowflake addon	https://hosted.weblate.org/projects/tor/snowflake-badge/bn/#translation
 
 Please only work on the Untranslated Strings.
+
+xRRcqupaNjF6MBT1%vjwU2Cx4dSwNW9C7g
